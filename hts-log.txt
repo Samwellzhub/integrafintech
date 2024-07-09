@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Mar 2024 19:43:24 at https://advanture.icu/betfin +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://advanture.icu/betfin -O1 "C:\My Web Sites\agu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:44:18	Error: 	"Method Not Allowed" (405) at link https://advanture.icu/betfin/xmlrpc.php (from https://advanture.icu/betfin/)
+19:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot (from https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3)
+19:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot? (from https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3)
+19:45:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff (from https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3)
+19:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot (from https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3)
+19:45:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot? (from https://advanture.icu/betfin/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.17.3)
+19:45:48	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=1262
+19:45:48	Warning: 	File has moved from https://advanture.icu/betfin/?p=1262 to https://advanture.icu/betfin/about/
+19:45:48	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=1269
+19:45:48	Warning: 	File has moved from https://advanture.icu/betfin/?p=1269 to https://advanture.icu/betfin/service/
+19:45:48	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=1270
+19:45:48	Warning: 	File has moved from https://advanture.icu/betfin/?p=1270 to https://advanture.icu/betfin/service-details/
+19:45:48	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=15
+19:45:48	Warning: 	File has moved from https://advanture.icu/betfin/?p=15 to https://advanture.icu/betfin/pricing/
+19:45:48	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=21
+19:45:48	Warning: 	File has moved from https://advanture.icu/betfin/?p=21 to https://advanture.icu/betfin/project/
+19:45:49	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=879
+19:45:49	Warning: 	File has moved from https://advanture.icu/betfin/?p=879 to https://advanture.icu/betfin/team/
+19:45:49	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=30
+19:45:49	Warning: 	File has moved from https://advanture.icu/betfin/?p=30 to https://advanture.icu/betfin/404-2/
+19:45:49	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=661
+19:45:49	Warning: 	File has moved from https://advanture.icu/betfin/?p=661 to https://advanture.icu/betfin/2023/04/08/how-to-conduct-a-comprehensive-seo-audit-for-your-website/
+19:45:49	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=32
+19:45:49	Warning: 	File has moved from https://advanture.icu/betfin/?p=32 to https://advanture.icu/betfin/faq/
+19:45:49	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=28
+19:45:49	Warning: 	File has moved from https://advanture.icu/betfin/?p=28 to https://advanture.icu/betfin/blog/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=26
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=26 to https://advanture.icu/betfin/contact/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=663
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=663 to https://advanture.icu/betfin/2023/04/08/the-benefits-of-hiring-a-professional-seo-agency-for-your-business/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=659
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=659 to https://advanture.icu/betfin/2023/04/08/the-top-seo-tools-every-marketer-should-use-in-2023/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=657
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=657 to https://advanture.icu/betfin/2023/04/08/the-future-of-seo-what-to-expect-in-2023-and-beyond/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=655
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=655 to https://advanture.icu/betfin/2023/04/08/the-importance-of-local-seo-for-small-businesses/
+19:45:57	Warning: 	Moved Permanently for https://advanture.icu/betfin/?p=643
+19:45:57	Warning: 	File has moved from https://advanture.icu/betfin/?p=643 to https://advanture.icu/betfin/2023/04/08/10-easy-seo-tips-to-improve-your-websites-ranking/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 33 seconds : 259 links scanned, 236 files written (20707595 bytes overall) [10177344 bytes received at 66518 bytes/sec], 15999589 bytes transferred using HTTP compression in 172 files, ratio 33%, 10.4 requests per connection
+(1 errors, 37 warnings, 0 messages)
